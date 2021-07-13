@@ -1,0 +1,15 @@
+{
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@rollup/plugin-dynamic-import-vars": "^1.1.1",
+    "rollup-plugin-scss": "^3.0.0",
+    "sass": "^1.35.2",
+    "vite": "^2.4.2"
+  },
+  "dependencies": {}
+}
